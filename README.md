@@ -2,4 +2,7 @@
 
 On this site I will periodically post my thoughts and ratings of different stories that I have recently watched or read.
 
+___________________________________________________________________________________________________________________________________________________________________________________
+
+
 ![Breaking Bad Poster](/breakingbadimage.jpg)
