@@ -2,4 +2,4 @@
 
 On this site I will periodically post my thoughts and ratings of different stories that I have recently watched or read.
 
-![Breaking Bad Poster](/tvfilmbookreview/breakingbadimage.jpg)
+![Breaking Bad Poster](/breakingbadimage.jpg)
