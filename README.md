@@ -4,5 +4,6 @@ On this site I will periodically post my thoughts and ratings of different stori
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+# Breaking Bad
 
 ![Breaking Bad Poster](/breakingbadimage.jpg)
