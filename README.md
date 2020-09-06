@@ -26,3 +26,4 @@ For books the categories will look something like:
 - Prose
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+[Blog Page](https://logan-trine.github.io/tvfilmbookreview/blog)
