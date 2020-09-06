@@ -1,1 +1,1 @@
-[Main Page](https://github.com/Logan-Trine/tvfilmbookreview/edit/master/README.md)
+[Main Page](https://logan-trine.github.io/tvfilmbookreview/)
