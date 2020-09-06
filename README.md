@@ -24,6 +24,9 @@ For books the categories will look something like:
 - Immediate Interest
 - Long-Term Interest
 - Prose
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-[Blog Page](https://logan-trine.github.io/tvfilmbookreview/blog)
+Here is the [blog page](https://logan-trine.github.io/tvfilmbookreview/blog) where I will be posting updates regarding my Content Management class.
+
+___________________________________________________________________________________________________________________________________________________________________________________
