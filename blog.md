@@ -1,6 +1,6 @@
 Back to [main page](https://logan-trine.github.io/tvfilmbookreview/).
 
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
 
 9/6/2020
 # Static and Dynamic Websites
@@ -8,7 +8,7 @@ This week I learned about the difference between a static and a dynamic website.
 
 This site, tvfilmbookreview, on the other hand, is an example of a static site. Any changes made to it are made in the source code and anyone who visits it will get the same experience. Despite being simpler, there are a few things that I have learned so far that I have applied here. First of all, I have used several different text format ideas such as headers and bullets. I have also included embedded links to different pages (the main page and this blog page). I plan on finding ways to use other things that I learn as well.
 
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
 
 9/13/2020
 
@@ -33,4 +33,27 @@ There are many aspects of business that have been affected by the coming of cont
 Boiko, B. (2005). Content Management Bible, 2nd ed. Indianapolis, Ind: Wiley.
 
 _________________________________________________________________________________________________________________________________________________________________________________
+
+9/20/2020
+
+# The Organization and Teams of a Successful Content Management System
+## Introduction
+Any organization of reasonable size needs some sort of organizational structure. Even small organizations benefit greatly from having a clear and consistent organizational structure. Content management systems are no different. They run optimally only when they are properly organized and structured. This also reflects on the organization that the content management system is tied to. There are several teams involved with a CMS that interact with one another to create a high-quality system. Even with proper organization, integration, and management, problems can still arise that need to be addressed.
+## What a Content Management System Does for the Organization It Is a Part Of
+It is possible to have a flawless CMS and it still be useless to the organization it is tied to. A CMS should be created with the goals and methods of the parent organization in mind. The Content Management Bible describes four ways that a CMS is integrated into the organization. The first way is that it coalesces different things such as departments and job types into a single system. The second way is that it gathers its data from all parts of the organization. The third way is that it “unifies the organization’s communications to itself” through Internet and intranet sites. (Boiko) The final way is that it integrates into the existing information management system. These aspects of integration have varying levels of importance, depending on what the organization’s goals and history are.
+## The Teams Associated with The Content Management System
+A content management system would ideally be created at nearly the same time as the organization itself. This is not always the case, however. Oftentimes, the creators of the organization do not initially see the need for a CMS, or they overlook its usefulness. Boiko mentions that usually one part of an organization first discovers this need for a CMS. The four possible teams that he mentions are likely to come to this realization were the business, IT, corporate communications, and marketing departments. The start of the CMS in an established organization is very important to do correctly. It is easy to mess up. The founding department needs to consider the needs of the other departments and the importance of having a unified CMS. If the CMS is created with only one department’s interests and needs in mind, it will not be sustainable for the organization. This means that there needs to be a certain structure to share information.
+## Information Flow in an Organization
+The hierarchy of an organization can be visually represented with a branching root structure. At the top of the structure is the CEO. This individual is connected to the next level, which could be department heads. Each department head is connected to their managers and each manager is connected to their team leaders. Each team leader is connected to the bottom level, the low-level employee. This structure can be seen on page 208 of The Content Management Bible. Information can either flow upwards (reports and presentations), downwards (plans and policies), or laterally (tips and training resources). A content management system can apply this same system to content and data in an organization. 
+## What Each Team Provides for a Content Management System
+As you could probably gather from last week’s blog post, a content management system requires a broad set of skilled players to be implemented and managed. If we look through a broader lens, we could see that certain teams and their specific skills can help the initial stages of creating a CMS for an organization. These teams include, but are not limited to, IT, business, marketing, and editorial. The IT team deals with the infrastructure of the CMS. The business team provides the valuable content and functionality of the CMS. The marketing team handles publications and the editorial team makes sure that the content is consistent in quality and format.
+## Problems Content Management System Teams Can Encounter
+The Content Management Bible describes various problems that the content management teams can encounter when trying to implement a CMS. One such problem is the issue of ownership. The department that creates the CMS may think that they should have ownership of it when in reality it should be decided by all cooperating teams. It is very possible that inter-team rivalries will come to the forefront if this issue is not handled correctly. Another issue is that of an agreed-upon theme. Every team should have some input on deciding what the content model of the CMS will be. It could jeopardize the CMS if there is discord in this decision. A third problem that is discussed involves perceived or real team power. A team can run into the problem that they do not have enough power to create meaningful progress. If a group feels this way, steps need to be taken to empower them so that they can get their job done.
+## Conclusion
+There are many aspects of a successful content management system. Many of these parts come into play during the creation of the CMS. An organization needs to be mindful of the teams in play and potential problems that could arise.
+## References:
+Boiko, B. (2005). Content Management Bible, 2nd ed. Indianapolis, Ind: Wiley.
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
