@@ -66,4 +66,4 @@ I collect and author content by researching and writing about the topic at hand.
 
 From this class I have gained a new appreciation of content management and content creation. The first module that I wrote had no special formatting and was written inside GitHub, not on Word to begin with. Since then I have evolved my content creation to encompass these things, along with others. Not only that, but I have progressed by learning more about what to do and what not to do when authoring and publishing content. Now I consider elements that I never knew existed before taking this class. I develop content with this new knowledge in mind. 
 
-
+_________________________________________________________________________________________________________________________________________________________________________________
