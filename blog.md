@@ -56,4 +56,14 @@ Boiko, B. (2005). Content Management Bible, 2nd ed. Indianapolis, Ind: Wiley.
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
+10/17/2020
+
+# Conducting a Content Audit
+
+Although part of the knowledge that I have learned from Content Management Systems isn’t immediately applicable to me, some of the things that I have learned about CMSs have been applied to the blog posts that I have written throughout the class. The website that I made for my blog is static and simple, so it does not need complex rules and formats. I have kept the content I post on it simple and clear. 
+
+I collect and author content by researching and writing about the topic at hand. Nothing special goes into this process outside of figuring out the main topics and subtopics that I will be discussing and then writing about them. My management system is simple as well. If something needs to be changed or reformatted, I will go to the source code and change it. My publishing system is equally simple. I type my blog post into Word to check for errors and then copy it over to my repository on GitHub. After that, I apply text formats if needed and commit the changes to my blog post page.
+
+From this class I have gained a new appreciation of content management and content creation. The first module that I wrote had no special formatting and was written inside GitHub, not on Word to begin with. Since then I have evolved my content creation to encompass these things, along with others. Not only that, but I have progressed by learning more about what to do and what not to do when authoring and publishing content. Now I consider elements that I never knew existed before taking this class. I develop content with this new knowledge in mind. 
+
 
